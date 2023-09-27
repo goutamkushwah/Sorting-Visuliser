@@ -31,3 +31,20 @@ body {
     padding: 10px;
     justify-content: space-around;
 }
+button{
+    height: 30px;
+}
+.go{
+    background-color: bisque;
+}
+.home{
+    background-color: blue;
+    color: white;
+}
+.li{
+    color: blue;
+    list-style: lower-greek;
+}
+ol.li {
+    list-style-type: lower-alpha;
+  }
