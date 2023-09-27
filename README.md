@@ -9,6 +9,7 @@
 ### This is built using HTML, CSS, JavaScript <br/>
 
 [Check out the website here](https://sorting-visuliser.netlify.app/)
+
 <img src="img1.png"> <br/>
 <img src="img2.png"> <br/>
 <img src="img3.png"> <br/>
